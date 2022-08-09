@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExoPlayerQuality</string>
+
+    <string name="track_selection_title">Video Quality</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_selection_title_audio">Video</string>
+    <string name="exo_track_selection_title_text">Video</string>
+</resources>
